@@ -2,6 +2,7 @@
   "expo": {
     "name": "asignacion-5-react",
     "slug": "asignacion-5-react",
+    "scheme": "asignacion5react",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
