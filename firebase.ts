@@ -3,7 +3,7 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDkPN7FG53ioQ-rdcgSV9kAMGcAN3V8Z8I',
+  apiKey: 'A',
   authDomain: 'taskai4.firebaseapp.com',
   projectId: 'taskai4',
   storageBucket: 'taskai4.firebasestorage.app',
